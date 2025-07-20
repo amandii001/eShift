@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eShift\\eShiftCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|d:\\eshift\\eshiftcompany\\eshiftcompany\\forms\\managestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\managestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\loadmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\loadmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\loadmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\loadmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\myhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\repository\\interface\\iadmindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\interface\\iadmindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\managestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\managestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\repository\\interface\\iadminloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\interface\\iadminloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\repository\\interface\\icustomerdashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\repository\\interface\\icustomerdashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\business\\interface\\ipaymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\business\\interface\\ipaymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\business\\services\\paymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\business\\services\\paymentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\employeereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\customerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IProductManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Interface\\IProductManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IReportsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Interface\\IReportsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IReportsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Interface\\IReportsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ReportsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Services\\ReportsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\TransportUnitManagementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Models\\TransportUnitManagementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\TransportUnitManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Forms\\TransportUnitManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ReportsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Services\\ReportsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ReportsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Models\\ReportsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Forms\\Reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ProductManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Services\\ProductManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ProductManagementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Models\\ProductManagementModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ManageStatusService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Business\\Services\\ManageStatusService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ManageStatusModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Models\\ManageStatusModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\transportunitmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\transportunitmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eshiftcompany\\forms\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|D:\\eShift\\eShiftCompany\\eShiftCompany\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD487CB-AF0F-4DA6-86A3-D8BEA732AB6F}|eShiftCompany\\eShiftCompany.csproj|solutionrelative:eShiftCompany\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminDashboard.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T09:03:30.796Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Form1.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:04:21.818Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadManagement.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\LoadManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\LoadManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\LoadManagement.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\LoadManagement.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAUwF8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:25:31.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadManagement.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\LoadManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\LoadManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\LoadManagement.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\LoadManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T11:18:31.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyHistory.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\MyHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:57:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageStatus.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ManageStatus.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ManageStatus.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ManageStatus.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ManageStatus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:25:05.545Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyHistory.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\MyHistory.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\MyHistory.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAUwKMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:22:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAdminDashboardRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IAdminDashboardRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\IAdminDashboardRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IAdminDashboardRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\IAdminDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:29:28.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageStatus.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ManageStatus.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ManageStatus.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ManageStatus.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ManageStatus.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAADwv/MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:25:07.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminLoginRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IAdminLoginRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\IAdminLoginRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IAdminLoginRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\IAdminLoginRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:29:39.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICustomerDashboardRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ICustomerDashboardRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\ICustomerDashboardRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ICustomerDashboardRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\ICustomerDashboardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T03:29:49.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\SignUp.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\SignUp.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:11:57.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminLogin.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminLogin.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAADgv2UAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:26:39.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\SignUp.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\SignUp.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:25:37.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Payments.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Payments.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:29:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentsService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\PaymentsService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\PaymentsService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\PaymentsService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\PaymentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:38:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPaymentsService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IPaymentsService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Interface\\IPaymentsService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IPaymentsService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Interface\\IPaymentsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:38:53.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeReg.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\EmployeeReg.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\EmployeeReg.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\EmployeeReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T16:26:20.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\AdminLogin.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:17:41.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Payments.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Payments.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Payments.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Payments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:58:21.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\CustomerDashboard.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\CustomerDashboard.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\CustomerDashboard.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\CustomerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T05:48:00.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Form1.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Form1.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Form1.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAADgv3gAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T21:01:26.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductManagementRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\IProductManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:59.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductManagementService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IProductManagementService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Interface\\IProductManagementService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IProductManagementService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Interface\\IProductManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:00:32.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IReportsRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IReportsRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\IReportsRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\IReportsRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\IReportsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:02:21.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IReportsService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IReportsService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Interface\\IReportsService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\IReportsService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Interface\\IReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:59:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITransportUnitManagementService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Interface\\ITransportUnitManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:31:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\ReportsRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:02:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TransportUnitManagementService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\TransportUnitManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:32:14.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransportUnitManagementRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\TransportUnitManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:33:22.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TransportUnitManagementModel.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\TransportUnitManagementModel.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Models\\TransportUnitManagementModel.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\TransportUnitManagementModel.cs",
+              "RelativeToolTip": "eShiftCompany\\Models\\TransportUnitManagementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:32:33.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TransportUnitManagement.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:56:09.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportsService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ReportsService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\ReportsService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ReportsService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\ReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:01:39.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportsModel.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ReportsModel.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Models\\ReportsModel.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ReportsModel.cs",
+              "RelativeToolTip": "eShiftCompany\\Models\\ReportsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T16:02:02.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Reports.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Reports.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:45.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductManagementService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ProductManagementService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\ProductManagementService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ProductManagementService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\ProductManagementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:00:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductManagementRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Services\\ProductManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:02:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductManagementModel.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ProductManagementModel.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Models\\ProductManagementModel.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ProductManagementModel.cs",
+              "RelativeToolTip": "eShiftCompany\\Models\\ProductManagementModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:01:20.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductManagement.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:27.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ManageStatusService.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ManageStatusService.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Business\\Services\\ManageStatusService.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Business\\Services\\ManageStatusService.cs",
+              "RelativeToolTip": "eShiftCompany\\Business\\Services\\ManageStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:26:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ManageStatusModel.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ManageStatusModel.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Models\\ManageStatusModel.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Models\\ManageStatusModel.cs",
+              "RelativeToolTip": "eShiftCompany\\Models\\ManageStatusModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:27:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ITransportUnitManagementRepository.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs",
+              "RelativeToolTip": "eShiftCompany\\Repository\\Interface\\ITransportUnitManagementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:32:58.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Program.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Program.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Program.cs",
+              "RelativeToolTip": "eShiftCompany\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T07:42:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TransportUnitManagement.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\TransportUnitManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\TransportUnitManagement.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\TransportUnitManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:56:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Reports.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\Reports.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\Reports.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\Reports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:44.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductManagement.cs [Design]",
+              "DocumentMoniker": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs",
+              "RelativeDocumentMoniker": "eShiftCompany\\Forms\\ProductManagement.cs",
+              "ToolTip": "D:\\eShift\\eShiftCompany\\eShiftCompany\\Forms\\ProductManagement.cs [Design]",
+              "RelativeToolTip": "eShiftCompany\\Forms\\ProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:26.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
